@@ -3,11 +3,3 @@ artifacts
 cache
 coverage*
 gasReporterOutput.json
-# Ignore artifacts:
-build
-coverage
-
-# Ignore all HTML files:
-*.html
-
-*.config.js
